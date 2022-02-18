@@ -1,14 +1,14 @@
 {
-  "name": "陈靖",
-  "short_name": "陈靖",
+  "name": "书书",
+  "short_name": "书书",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
-  "description": "陈靖的个人主页",
+  "description": "书书的个人主页",
   "theme_color": "blue",
   "icons": [
     {
-      "src": "./logo.JPG",
+      "src": "./logo.jpg",
       "sizes": "144x144",
       "type": "image/png"
     }
